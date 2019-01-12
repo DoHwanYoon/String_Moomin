@@ -21,7 +21,7 @@ comments: false
 
 위 링크로 들어가 `Ruby+Devkit 2.5.3-1(x64)` 를 다운로드 받아 설치
 
-![Ruby Install]({{site.static_url}}/image/20190112 create jekyll blog/create jekyll blog1.PNG)
+![Ruby Install]({{site.static_url}}/image/20190112-create-jekyll-blog/create-jekyll-blog1.PNG)
 
 ---
 
@@ -29,7 +29,7 @@ comments: false
 
 Ruby 설치가 완료되었다면 Windows 검색창에서 `Ruby`검색후 실행
 
-![Search Ruby]({{site.static_url}}/image/20190112 create jekyll blog/create jekyll blog2.jpg)
+![Search Ruby]({{site.static_url}}/image/20190112-create-jekyll-blog/create-jekyll-blog2.jpg)
 
 콘솔창에서 아래에 나와있는 5개의 [Gem] 명령어를 통해 지킬과 실행에 필요한 패키지들을 설치
 
@@ -61,7 +61,7 @@ bundle exec jekyll serve
 
 브라우저를 열어 (localhost:4000)으로 접속하면 Local상에서 블로그가 실행 되는 것을 확인 할 수 있다.
 
-![Ruby Install]({{site.static_url}}/image/20190112 create jekyll blog/create jekyll blog3.jpg)
+![Ruby Install]({{site.static_url}}/image/20190112-create-jekyll-blog/create-jekyll-blog3.jpg)
 
 다음 포스트에서는 Markdown을 이용하여 Jekyll로 포스트를 작성하는 방법과 포스트를 Github에 업로드 하는 방법을 알아볼것이다.
 
