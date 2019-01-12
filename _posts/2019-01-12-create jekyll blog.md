@@ -21,7 +21,7 @@ comments: false
 
 위 링크로 들어가 `Ruby+Devkit 2.5.3-1(x64)` 를 다운로드 받아 설치
 
-![Ruby Install]({{site.static_url}}/image/20190112-create-jekyll-blog/create-jekyll-blog1.PNG)
+![Ruby Install](/image/20190112-create-jekyll-blog/create-jekyll-blog1.PNG)
 
 ---
 
